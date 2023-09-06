@@ -15,7 +15,9 @@
   </a>
   <a href="https://www.javascript.com/" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?sty…
+      </a>
 
+
+---
 - 🔭 Explorador
 - 👯 Colaborativo
-
